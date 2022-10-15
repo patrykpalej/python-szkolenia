@@ -1,0 +1,83 @@
+Python:
+  Wprowadzenie:
+    - Informacje o języku
+    - Przygotowanie środowiska
+    - PyCharm - utworzenie projektu
+    - PyCharm - elementy IDE
+    - Jupyter Notebook
+  Podstawy:
+    - Definiowanie zmiennych
+    - Funkcje wbudowane
+    - Typy
+    - Operacje arytmetyczne
+    - Operacje na stringach
+    - Komentarze
+    - Funkcja input()
+  Struktury danych:
+    - list
+    - tuple
+    - dict
+    - set
+    - Operacje na strukturach danych
+    - Slicing
+    - Zagnieżdżone struktury
+    - Wbudowane generatory cz. 1
+  Instrukcje warunkowe:
+    - Operatory porównania
+    - Instrukcja if
+    - Instrukcja if-else
+    - Instrukcja if-elif-(else)
+  Pętle:
+    - Pętla for
+    - Pętla while
+    - Instrukcje break oraz continue
+    - Zagnieżdżone pętle
+    - Generatory w pętli for
+    - list comprehension
+  Funkcje:
+    - Prosta funkcja
+    - Słowo kluczowe return
+    - Argumenty funkcji
+    - Argumenty z wartością domyślną
+    - Kolejność argumentów
+    - Wbudowane generatory cz. 2
+    - lambda
+    - argument unpacking
+    - args, kwargs
+    - Docstring
+  Obsługa błędów i jakość kodu:
+    - PEP 8
+    - Stack Overflow
+    - Debugowanie
+    - Wyjątki
+  Moduły:
+    - Ogólne informacje
+    - Przykładowe moduły biblioteki standardowej
+    - Tworzenie własnego modułu
+  Praca z plikami:
+    - Pliki txt
+    - Pliki json
+    - pickle
+    - Biblioteka os
+  Programowanie obiektowe:
+    - Klasa oraz obiekt
+    - Definicja klasy, konstruktor
+    - Atrybuty i metody
+    - staticmethod, classmethod
+    - Dziedziczenie
+    - Stringifikacja
+  Wyrażenia regularne:
+    - r-string
+    - Proste patterny
+    - Escape character
+    - Znaki specjalne
+    - Złożone patterny
+    - Funkcje biblioteki re
+  Pozostałe zagadnienia:
+    - Rekurencja
+    - Generatory
+    - Doctesty
+    - Logowanie
+Git:
+  Temat 1:
+    - abc

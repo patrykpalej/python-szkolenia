@@ -13,4 +13,5 @@ Oprócz tego **prowadzę szkolenia** z technologii, które zgłębiam - pozwala 
 
 
 <img style="float: left; margin-right: 2em;" src="attachments/photo.png">
+![[photo.png]]
 

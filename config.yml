@@ -22,8 +22,10 @@ Python:
     - Slicing
     - Zagnieżdżone struktury
     - Wbudowane generatory cz. 1
+    - Mutowalność, hashowalność i kopiowanie obiektów
   Instrukcje warunkowe:
     - Operatory porównania
+    - Spójniki logiczne
     - Instrukcja if
     - Instrukcja if-else
     - Instrukcja if-elif-(else)
@@ -35,9 +37,9 @@ Python:
     - Generatory w pętli for
     - list comprehension
   Funkcje:
-    - Prosta funkcja
-    - Słowo kluczowe return
+    - Procedura
     - Argumenty funkcji
+    - Słowo kluczowe return
     - Argumenty z wartością domyślną
     - Kolejność argumentów
     - Wbudowane generatory cz. 2
@@ -47,12 +49,14 @@ Python:
     - Docstring
   Obsługa błędów i jakość kodu:
     - PEP 8
+    - Type annotations
     - Stack Overflow
     - Debugowanie
     - Wyjątki
   Moduły:
     - Ogólne informacje
     - Przykładowe moduły biblioteki standardowej
+    - Import kodu z innych plików
     - Tworzenie własnego modułu
   Praca z plikami:
     - Pliki txt

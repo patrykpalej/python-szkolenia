@@ -1,3 +1,10 @@
+### [[Oferta szkoleń#Python|Python]]
+### [[Oferta szkoleń#Git|Git]]
+### [[Oferta szkoleń#Data Science|Data Science]]
+### [[Oferta szkoleń#Bazy danych|Bazy danych]]
+### [[Oferta szkoleń#Pozyskiwanie danych|Pozyskiwanie danych]]
+
+----
 ### Python
 #### [1. Wprowadzenie](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
 [1.1 Informacje o języku](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
@@ -87,4 +94,4 @@
 
 ---
 
-### Web Scraping
+### Pozyskiwanie danych

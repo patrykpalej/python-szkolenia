@@ -6,3 +6,6 @@ Od 2018 roku zawodowo oraz hobbystycznie programuję w **Pythonie.** Szczególni
 Oprócz tego **prowadzę szkolenia** z technologii, które zgłębiam - pozwala mi to ugruntować swoją wiedzę jednocześnie pomagając innym. Na tej stronie możesz znaleźć moje materiały.
 
 Ofertę moich szkoleń możesz sprawdzić [[Oferta szkoleń|tutaj]].
+
+kontakt:
+edu@palej.email

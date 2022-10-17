@@ -1,98 +1,104 @@
 ### [[Oferta szkoleń#Python - spis treści|Python]]
 ### [[Oferta szkoleń#Git - spis treści|Git]]
-### [[Oferta szkoleń#Data Science - spis treści|Data Science]]
-### [[Oferta szkoleń#Bazy danych - spis treści|Bazy danych]]
-### [[Oferta szkoleń#Pozyskiwanie danych - spis treści|Pozyskiwanie danych]]
 
 ----
 ----
 ### Python - spis treści
-#### [1. Wprowadzenie](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
-[1.1 Informacje o języku](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
-[1.2 Przygotowanie środowiska](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
-[1.3 PyCharm - utworzenie projektu](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
-[1.4 PyCharm - elementy IDE](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
-[1.5 Jupyter Notebook](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
+#### [1. Wprowadzenie](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie)
+[1.1 Informacje o języku](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie/#1-1-informacje-o-języku)
+[1.2 Przygotowanie środowiska](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie/#1-2-przygotowanie-środowiska)
+[1.3 PyCharm - utworzenie projektu](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie/#1-3-pycharm---utworzenie-projektu)
+[1.4 PyCharm - elementy IDE](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie/#1-4-pycharm---elementy-ide)
+[1.5 Jupyter Notebook](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie/#1-5-jupyter-notebook)
 
+#### [2. Podstawy](https://patrykpalej.netlify.app/docs/python/2.podstawy)
+[2.1 Definiowanie zmiennych](https://patrykpalej.netlify.app/docs/python/2.podstawy/#2-1-definiowanie-zmiennych)
+[2.2 Funkcje wbudowane](https://patrykpalej.netlify.app/docs/python/2.podstawy/#2-2-funkcje-wbudowane)
+[2.3 Typy](https://patrykpalej.netlify.app/docs/python/2.podstawy/#2-3-typy)
+[2.4 Operacje arytmetyczne](https://patrykpalej.netlify.app/docs/python/2.podstawy/#2-4-operacje-arytmetyczne)
+[2.5 Operacje na stringach](https://patrykpalej.netlify.app/docs/python/2.podstawy/#2-5-operacje-na-stringach)
+[2.6 Komentarze](https://patrykpalej.netlify.app/docs/python/2.podstawy/#2-6-komentarze)
+[2.7 Funkcja input()](https://patrykpalej.netlify.app/docs/python/2.podstawy/#2-7-funkcja-input)
 
-#### [2. Podstawy](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
-[2.1 Definiowanie zmiennych](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
-[2.2 Funkcje wbudowane](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
-[2.3 Typy](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
-[2.4 Operacje arytmetyczne](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
-[2.5 Operacje na stringach](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
-[2.6 Komentarze](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
-[2.7 Funkcja input()](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
+#### [3. Struktury danych](https://patrykpalej.netlify.app/docs/python/3.struktury-danych)
+[3.1 list](https://patrykpalej.netlify.app/docs/python/3.struktury-danych/#3-1-list)
+[3.2 tuple](https://patrykpalej.netlify.app/docs/python/3.struktury-danych/#3-2-tuple)
+[3.3 dict](https://patrykpalej.netlify.app/docs/python/3.struktury-danych/#3-3-dict)
+[3.4 set](https://patrykpalej.netlify.app/docs/python/3.struktury-danych/#3-4-set)
+[3.5 Operacje na strukturach danych](https://patrykpalej.netlify.app/docs/python/3.struktury-danych/#3-5-operacje-na-strukturach-danych)
+[3.6 Slicing](https://patrykpalej.netlify.app/docs/python/3.struktury-danych/#3-6-slicing)
+[3.7 Zagnieżdżone struktury](https://patrykpalej.netlify.app/docs/python/3.struktury-danych/#3-7-zagnieżdżone-struktury)
+[3.8 Wbudowane generatory cz. 1](https://patrykpalej.netlify.app/docs/python/3.struktury-danych/#3-8-wbudowane-generatory-cz.-1)
+[3.9 Mutowalność, hashowalność i kopiowanie obiektów](https://patrykpalej.netlify.app/docs/python/3.struktury-danych/#3-9-mutowalność-hashowalność-i-kopiowanie-obiektów)
 
+#### [4. Instrukcje warunkowe](https://patrykpalej.netlify.app/docs/python/4.instrukcje-warunkowe)
+[4.1 Operatory porównania](https://patrykpalej.netlify.app/docs/python/4.instrukcje-warunkowe/#4-1-operatory-porównania)
+[4.2 Spójniki logiczne](https://patrykpalej.netlify.app/docs/python/4.instrukcje-warunkowe/#4-2-spójniki-logiczne)
+[4.3 Instrukcja if](https://patrykpalej.netlify.app/docs/python/4.instrukcje-warunkowe/#4-3-instrukcja-if)
+[4.4 Instrukcja if-else](https://patrykpalej.netlify.app/docs/python/4.instrukcje-warunkowe/#4-4-instrukcja-if-else)
+[4.5 Instrukcja if-elif-(else)](https://patrykpalej.netlify.app/docs/python/4.instrukcje-warunkowe/#4-5-instrukcja-if-elif-else)
 
-#### [3. Struktury danych](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
-[3.1 list](#)
-[3.2 tuple](#)
-[3.3 dict](#)
-[3.4 set](#)
-[3.5 Operacje na strukturach danych](#)
-[3.6 Slicing](#)
-[3.7 Zagnieżdżone struktury](#)
-[3.8 Wbudowane generatory cz. 1](#)
+#### [5. Pętle](https://patrykpalej.netlify.app/docs/python/5.pętle)
+[5.1 Pętla for](https://patrykpalej.netlify.app/docs/python/5.pętle/#5-1-pętla-for)
+[5.2 Pętla while](https://patrykpalej.netlify.app/docs/python/5.pętle/#5-2-pętla-while)
+[5.3 Instrukcje break oraz continue](https://patrykpalej.netlify.app/docs/python/5.pętle/#5-3-instrukcje-break-oraz-continue)
+[5.4 Zagnieżdżone pętle](https://patrykpalej.netlify.app/docs/python/5.pętle/#5-4-zagnieżdżone-pętle)
+[5.5 Generatory w pętli for](https://patrykpalej.netlify.app/docs/python/5.pętle/#5-5-generatory-w-pętli-for)
+[5.6 list comprehension](https://patrykpalej.netlify.app/docs/python/5.pętle/#5-6-list-comprehension)
 
+#### [6. Funkcje](https://patrykpalej.netlify.app/docs/python/6.funkcje)
+[6.1 Procedura](https://patrykpalej.netlify.app/docs/python/6.funkcje/#6-1-procedura)
+[6.2 Argumenty funkcji](https://patrykpalej.netlify.app/docs/python/6.funkcje/#6-2-argumenty-funkcji)
+[6.3 Słowo kluczowe return](https://patrykpalej.netlify.app/docs/python/6.funkcje/#6-3-słowo-kluczowe-return)
+[6.4 Argumenty z wartością domyślną](https://patrykpalej.netlify.app/docs/python/6.funkcje/#6-4-argumenty-z-wartością-domyślną)
+[6.5 Kolejność argumentów](https://patrykpalej.netlify.app/docs/python/6.funkcje/#6-5-kolejność-argumentów)
+[6.6 Wbudowane generatory cz. 2](https://patrykpalej.netlify.app/docs/python/6.funkcje/#6-6-wbudowane-generatory-cz.-2)
+[6.7 lambda](https://patrykpalej.netlify.app/docs/python/6.funkcje/#6-7-lambda)
+[6.8 argument unpacking](https://patrykpalej.netlify.app/docs/python/6.funkcje/#6-8-argument-unpacking)
+[6.9 args, kwargs](https://patrykpalej.netlify.app/docs/python/6.funkcje/#6-9-args-kwargs)
+[6.10 Docstring](https://patrykpalej.netlify.app/docs/python/6.funkcje/#6-10-docstring)
 
-#### [4. Instrukcje warunkowe](#)
-[4.1 Operatory porównania](#)
-[4.2 Instrukcja if](#)
-[4.3 Instrukcja if-else](#)
-[4.4 Instrukcja if-elif-(else)](#)
+#### [7. Obsługa błędów i jakość kodu](https://patrykpalej.netlify.app/docs/python/7.obsługa-błędów-i-jakość-kodu)
+[7.1 PEP 8](https://patrykpalej.netlify.app/docs/python/7.obsługa-błędów-i-jakość-kodu/#7-1-pep-8)
+[7.2 Type annotations](https://patrykpalej.netlify.app/docs/python/7.obsługa-błędów-i-jakość-kodu/#7-2-type-annotations)
+[7.3 Stack Overflow](https://patrykpalej.netlify.app/docs/python/7.obsługa-błędów-i-jakość-kodu/#7-3-stack-overflow)
+[7.4 Debugowanie](https://patrykpalej.netlify.app/docs/python/7.obsługa-błędów-i-jakość-kodu/#7-4-debugowanie)
+[7.5 Wyjątki](https://patrykpalej.netlify.app/docs/python/7.obsługa-błędów-i-jakość-kodu/#7-5-wyjątki)
 
-#### [5. Pętle](#)
-[5.1 Pętla for](#)
-[5.2 Pętla while](#)
-[5.3 Instrukcje break oraz continue](#)
-[5.4 Zagnieżdżone pętle](#)
-[5.5 Generatory w pętli for](#)
-[5.6 list comprehension](#)
+#### [8. Moduły](https://patrykpalej.netlify.app/docs/python/8.moduły)
+[8.1 Ogólne informacje](https://patrykpalej.netlify.app/docs/python/8.moduły/#8-1-ogólne-informacje)
+[8.2 Przykładowe moduły biblioteki standardowej](https://patrykpalej.netlify.app/docs/python/8.moduły/#8-2-przykładowe-moduły-biblioteki-standardowej)
+[8.3 Import kodu z innych plików](https://patrykpalej.netlify.app/docs/python/8.moduły/#8-3-import-kodu-z-innych-plików)
+[8.4 Tworzenie własnego modułu](https://patrykpalej.netlify.app/docs/python/8.moduły/#8-4-tworzenie-własnego-modułu)
 
+#### [9. Praca z plikami](https://patrykpalej.netlify.app/docs/python/9.praca-z-plikami)
+[9.1 Pliki txt](https://patrykpalej.netlify.app/docs/python/9.praca-z-plikami/#9-1-pliki-txt)
+[9.2 Pliki json](https://patrykpalej.netlify.app/docs/python/9.praca-z-plikami/#9-2-pliki-json)
+[9.3 pickle](https://patrykpalej.netlify.app/docs/python/9.praca-z-plikami/#9-3-pickle)
+[9.4 Biblioteka os](https://patrykpalej.netlify.app/docs/python/9.praca-z-plikami/#9-4-biblioteka-os)
 
-#### [6. Funkcje](#)
-[6.1 Prosta funkcja](#)
-[6.2 Słowo kluczowe return](#)
-[6.3 Argumenty funkcji](#)
-[6.4 Argumenty z wartością domyślną](#)
-[6.5 Kolejność argumentów](#)
-[6.6 Wbudowane generatory cz. 2](#)
-[6.7 lambda](#)
-[6.8 argument unpacking](#)
-[6.9 args, kwargs](#)
-[6.10 Docstring](#)
+#### [10. Programowanie obiektowe](https://patrykpalej.netlify.app/docs/python/10.programowanie-obiektowe)
+[10.1 Klasa oraz obiekt](https://patrykpalej.netlify.app/docs/python/10.programowanie-obiektowe/#10-1-klasa-oraz-obiekt)
+[10.2 Definicja klasy, konstruktor](https://patrykpalej.netlify.app/docs/python/10.programowanie-obiektowe/#10-2-definicja-klasy-konstruktor)
+[10.3 Atrybuty i metody](https://patrykpalej.netlify.app/docs/python/10.programowanie-obiektowe/#10-3-atrybuty-i-metody)
+[10.4 staticmethod, classmethod](https://patrykpalej.netlify.app/docs/python/10.programowanie-obiektowe/#10-4-staticmethod-classmethod)
+[10.5 Dziedziczenie](https://patrykpalej.netlify.app/docs/python/10.programowanie-obiektowe/#10-5-dziedziczenie)
+[10.6 Stringifikacja](https://patrykpalej.netlify.app/docs/python/10.programowanie-obiektowe/#10-6-stringifikacja)
 
-#### [7. Obsługa błędów i jakość kodu](#)
-[7.1 PEP 8](#)
-[7.2 Stack Overflow](#)
-[7.3 Debugowanie](#)
-[7.4 Wyjątki](#)
+#### [11. Wyrażenia regularne](https://patrykpalej.netlify.app/docs/python/11.wyrażenia-regularne)
+[11.1 r-string](https://patrykpalej.netlify.app/docs/python/11.wyrażenia-regularne/#11-1-r-string)
+[11.2 Proste patterny](https://patrykpalej.netlify.app/docs/python/11.wyrażenia-regularne/#11-2-proste-patterny)
+[11.3 Escape character](https://patrykpalej.netlify.app/docs/python/11.wyrażenia-regularne/#11-3-escape-character)
+[11.4 Znaki specjalne](https://patrykpalej.netlify.app/docs/python/11.wyrażenia-regularne/#11-4-znaki-specjalne)
+[11.5 Złożone patterny](https://patrykpalej.netlify.app/docs/python/11.wyrażenia-regularne/#11-5-złożone-patterny)
+[11.6 Funkcje biblioteki re](https://patrykpalej.netlify.app/docs/python/11.wyrażenia-regularne/#11-6-funkcje-biblioteki-re)
 
-#### [8. Moduły](#)
-[8.1 Ogólne informacje](#)
-
-
-#### [9. Praca z plikami](#)
-
-#### [10. Programowanie obiektowe](#)
-
-#### [11. Wyrażenia regularne](#)
-
-#### [12. Pozostałe zagadnienia](#)
-
----
+#### [12. Pozostałe zagadnienia](https://patrykpalej.netlify.app/docs/python/12.pozostałe-zagadnienia)
+[12.1 Rekurencja](https://patrykpalej.netlify.app/docs/python/12.pozostałe-zagadnienia/#12-1-rekurencja)
+[12.2 Generatory](https://patrykpalej.netlify.app/docs/python/12.pozostałe-zagadnienia/#12-2-generatory)
+[12.3 Doctesty](https://patrykpalej.netlify.app/docs/python/12.pozostałe-zagadnienia/#12-3-doctesty)
+[12.4 Logowanie](https://patrykpalej.netlify.app/docs/python/12.pozostałe-zagadnienia/#12-4-logowanie)
 
 ### Git - spis treści
-
----
-
-### Data Science - spis treści
-
----
-
-### Bazy danych - spis treści
-
----
-
-### Pozyskiwanie danych - spis treści
+#### [1. Temat 1](https://patrykpalej.netlify.app/docs/git/1.temat-1)
+[1.1 abc](https://patrykpalej.netlify.app/docs/git/1.temat-1/#1-1-abc)

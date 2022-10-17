@@ -6,7 +6,7 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "O mnie"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "https://cloud.patrykpalej.com/index.php/apps/files_sharing/publicpreview/qHJGajdyzpBx5oW?x=1908&y=661&a=true&file=email.png&scalingup=0"
+LANDING_DESCRIPTION = "https://cloud.patrykpalej.com/index.php/apps/files_sharing/publicpreview/tFgPoebteaf3GLT?x=1908&y=661&a=true&file=email.png&scalingup=0"
 LANDING_DESCRIPTION_LM = "https://cloud.patrykpalej.com/index.php/apps/files_sharing/publicpreview/jKzSxxNdsEMwBTQ?x=1908&y=661&a=true&file=email_lm.png&scalingup=0"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "o-mnie"

@@ -5,6 +5,7 @@
 ### [[Oferta szkoleń#Pozyskiwanie danych - spis treści|Pozyskiwanie danych]]
 
 ----
+----
 ### Python - spis treści
 #### [1. Wprowadzenie](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
 [1.1 Informacje o języku](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)

@@ -1,2 +1,4 @@
 generate_toc.py
 .obsidian
+.ipynb_checkpoints
+*.ipynb

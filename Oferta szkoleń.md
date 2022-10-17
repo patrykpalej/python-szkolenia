@@ -1,11 +1,11 @@
-### [[Oferta szkoleń#Python|Python]]
-### [[Oferta szkoleń#Git|Git]]
-### [[Oferta szkoleń#Data Science|Data Science]]
-### [[Oferta szkoleń#Bazy danych|Bazy danych]]
-### [[Oferta szkoleń#Pozyskiwanie danych|Pozyskiwanie danych]]
+### [[Oferta szkoleń#Python - spis treści|Python]]
+### [[Oferta szkoleń#Git - spis treści|Git]]
+### [[Oferta szkoleń#Data Science - spis treści|Data Science]]
+### [[Oferta szkoleń#Bazy danych - spis treści|Bazy danych]]
+### [[Oferta szkoleń#Pozyskiwanie danych - spis treści|Pozyskiwanie danych]]
 
 ----
-### Python
+### Python - spis treści
 #### [1. Wprowadzenie](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
 [1.1 Informacje o języku](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
 [1.2 Przygotowanie środowiska](https://patrykpalej.netlify.app/docs/1-python/01-podstawy/1.definiowanie-zmiennych/)
@@ -82,16 +82,16 @@
 
 ---
 
-### Git
+### Git - spis treści
 
 ---
 
-### Data Science
+### Data Science - spis treści
 
 ---
 
-### Bazy danych
+### Bazy danych - spis treści
 
 ---
 
-### Pozyskiwanie danych
+### Pozyskiwanie danych - spis treści

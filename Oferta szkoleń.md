@@ -1,5 +1,5 @@
 ### [[Oferta szkoleń#Python - spis treści|Python]]
-### [[Oferta szkoleń#Data Science|todo - spis treści|Data Science|todo]]
+### [[Oferta szkoleń#Data Science - spis treści|Data Science]]
 
 ----
 ----
@@ -177,4 +177,3 @@
 
 #### [12. Seaborn](https://patrykpalej.netlify.app/docs/data-science/12.seaborn)
 [12.1 Boxplot](https://patrykpalej.netlify.app/docs/data-science/12.seaborn/#12-1-boxplot)
-

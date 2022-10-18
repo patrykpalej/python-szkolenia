@@ -1,12 +1,9 @@
 ### [[Oferta szkoleń#Python - spis treści|Python]]
 ### [[Oferta szkoleń#Data Science - spis treści|Data Science]]
-
-----
-----
 ### Python - spis treści
 #### [1. Wprowadzenie](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie)
 [1.1 Informacje o języku](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie/#1-1-informacje-o-jezyku)
-[1.2 Przygotowanie środowiska](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie/#1-2-przygotowanie-srodowiska)
+[1.2 Instalacja środowiska](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie/#1-2-instalacja-srodowiska)
 [1.3 PyCharm - utworzenie projektu](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie/#1-3-pycharm-utworzenie-projektu)
 [1.4 PyCharm - elementy IDE](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie/#1-4-pycharm-elementy-ide)
 [1.5 Jupyter Notebook](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie/#1-5-jupyter-notebook)

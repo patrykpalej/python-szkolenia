@@ -19,7 +19,7 @@ Szkolenie obejmuje naukę podstaw programowania dla osób zupełnie początkują
 [2.4 Operacje arytmetyczne](https://patrykpalej.netlify.app/docs/python/2.podstawy/#2-4-operacje-arytmetyczne)
 [2.5 Operacje na stringach](https://patrykpalej.netlify.app/docs/python/2.podstawy/#2-5-operacje-na-stringach)
 [2.6 Komentarze](https://patrykpalej.netlify.app/docs/python/2.podstawy/#2-6-komentarze)
-[2.7 Funkcja input()](https://patrykpalej.netlify.app/docs/python/2.podstawy/#2-7-funkcja-input)
+[2.7 Funkcja `input()`](https://patrykpalej.netlify.app/docs/python/2.podstawy/#2-7-funkcja-input)
 
 #### [3. Struktury danych](https://patrykpalej.netlify.app/docs/python/3.struktury-danych)
 [3.1 list](https://patrykpalej.netlify.app/docs/python/3.struktury-danych/#3-1-list)

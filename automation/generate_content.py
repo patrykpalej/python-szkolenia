@@ -1,5 +1,6 @@
 import os
 import yaml
+import shutil
 
 
 with open("config.yml", "r") as f:
@@ -8,6 +9,8 @@ with open("config.yml", "r") as f:
 content_folder = "content"
 for training in list(conf.keys()):
     training_name = training.replace("|todo", "")
+    shutil.rmtree(training_name)
+    
     for i, lesson in enumerate(conf[training]["Lekcje"], start=1):
         markdown_text = ""
         for j, topic in enumerate(conf[training]["Lekcje"][lesson], start=1):

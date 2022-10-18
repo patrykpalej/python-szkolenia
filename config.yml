@@ -82,6 +82,71 @@ Python:
     - Generatory
     - Doctesty
     - Logowanie
-Git:
-  Temat 1:
-    - abc
+Data Science:
+  Wprowadzenie:
+    - Informacje ogólne
+    - Jupyter Notebook
+  Numpy - tablice:
+    - Wektory i macierze
+    - Zapis i odczyt tablic z pliku
+    - Kształt oraz wymiar tablicy
+    - Typy danych w tablicach
+    - Rozmiar tablicy
+    - Slicing
+    - Slicing z użyciem warunków logicznych
+    - Zmiana kształtu tablicy
+    - Sortowanie
+  Numpy - operacje matematyczne:
+    - Podstawowe operacje matematyczne
+    - Operacje logiczne
+    - Algebra liniowa
+    - Funkcje agregujące
+  Numpy - pozostałe zagadnienia:
+    - Broadcasting
+    - Kopiowanie tablic
+    - Obroty tablic i wyciąganie przekątnej
+    - Łączenie tablic
+    - Liczby pseudolosowe
+  Pandas - series i dataframe:
+    - Series
+    - DataFrame
+  Pandas - operacje odczytu:
+    - Struktura dataframe'a
+    - Wyciąganie kolumn, wierszy, wartości
+    - Wartości unikalne
+    - Filtrowanie dataframe'a
+    - Wykresy
+  Pandas - operacje zapisu:
+    - Modyfikacja istniejących wartości
+    - Sortowanie
+    - Tworzenie nowych kolumn
+    - Operacje na kolumnach
+    - Dodawanie wierszy
+  Pandas - pozostałe operacje:
+    - Grupowanie i agregacja
+    - Łączenie tabel
+    - Wczytywanie dużych zbiorów danych
+    - Indeks hierarchiczny
+    - Data i czas
+    - Wybrane pozostałe funkcje
+  Matplotlib - typy wykresów:
+    - Wykres punktowy
+    - Wykres liniowy
+    - Wykres słupkowy
+    - Histogram
+    - Heatmapa
+  Matplotlib - stylowanie wykresów:
+    - Kolory i kształty
+    - Opisy osi oraz tytuł wykresu
+    - Ticki
+    - Legenda i siatka
+    - Podwykresy
+    - Zapis do pliku
+    - Colorbar
+  Matplotlib - zaawansowane stylowanie wykresów:
+    - Stylowanie ticków
+    - Dwie osie pionowe
+    - Współdzielenie osi
+  Seaborn:
+    - Boxplot
+    

@@ -1,5 +1,8 @@
 ### [[Oferta szkoleń#Python - spis treści|Python]]
 ### [[Oferta szkoleń#Data Science - spis treści|Data Science]]
+
+----
+----
 ### Python - spis treści
 #### [1. Wprowadzenie](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie)
 [1.1 Informacje o języku](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie/#1-1-informacje-o-jezyku)

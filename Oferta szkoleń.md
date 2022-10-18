@@ -1,5 +1,5 @@
 ### [[Oferta szkoleń#Python - spis treści|Python]]
-### [[Oferta szkoleń#Data Science - spis treści|Data Science]]
+### [[Oferta szkoleń#Data Science|todo - spis treści|Data Science|todo]]
 
 ----
 ----
@@ -99,7 +99,7 @@
 [12.3 Doctesty](https://patrykpalej.netlify.app/docs/python/12.pozostale-zagadnienia/#12-3-doctesty)
 [12.4 Logowanie](https://patrykpalej.netlify.app/docs/python/12.pozostale-zagadnienia/#12-4-logowanie)
 
-### Data Science - spis treści
+### [W przygotowaniu] Data Science - spis treści
 #### [1. Wprowadzenie](https://patrykpalej.netlify.app/docs/data-science/1.wprowadzenie)
 [1.1 Informacje ogólne](https://patrykpalej.netlify.app/docs/data-science/1.wprowadzenie/#1-1-informacje-ogolne)
 [1.2 Jupyter Notebook](https://patrykpalej.netlify.app/docs/data-science/1.wprowadzenie/#1-2-jupyter-notebook)
@@ -177,3 +177,4 @@
 
 #### [12. Seaborn](https://patrykpalej.netlify.app/docs/data-science/12.seaborn)
 [12.1 Boxplot](https://patrykpalej.netlify.app/docs/data-science/12.seaborn/#12-1-boxplot)
+

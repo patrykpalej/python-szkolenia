@@ -3,7 +3,7 @@ import yaml
 
 
 with open("config.yml", "r") as f:
-    conf = yaml.load(f, )
+    conf = yaml.safe_load(f)
 
 content_folder = "content"
 for training in list(conf.keys()):

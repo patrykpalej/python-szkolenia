@@ -4,6 +4,7 @@
 ----
 ----
 ### Python - spis treści
+Szkolenie obejmuje naukę podstaw programowania dla osób zupełnie początkujących i porusza wszystkie najważniejsze zagadnienia potrzebne do startu jako Python developer.
 #### [1. Wprowadzenie](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie)
 [1.1 Informacje o języku](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie/#1-1-informacje-o-jezyku)
 [1.2 Instalacja środowiska](https://patrykpalej.netlify.app/docs/python/1.wprowadzenie/#1-2-instalacja-srodowiska)
@@ -100,6 +101,7 @@
 [12.4 Logowanie](https://patrykpalej.netlify.app/docs/python/12.pozostale-zagadnienia/#12-4-logowanie)
 
 ### Data Science - spis treści
+To szkolenie obejmuje najważniejsze biblioteki potrzebne do pracy jako data scientist. Jest punktem wyjścia do dalszej nauki pracy z danymi a także uczenia maszynowego i głębokiego.
 #### [1. Wprowadzenie](https://patrykpalej.netlify.app/docs/data-science/1.wprowadzenie)
 [1.1 Informacje ogólne](https://patrykpalej.netlify.app/docs/data-science/1.wprowadzenie/#1-1-informacje-ogolne)
 [1.2 Jupyter Notebook](https://patrykpalej.netlify.app/docs/data-science/1.wprowadzenie/#1-2-jupyter-notebook)

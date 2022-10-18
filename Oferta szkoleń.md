@@ -100,7 +100,6 @@
 [12.4 Logowanie](https://patrykpalej.netlify.app/docs/python/12.pozostale-zagadnienia/#12-4-logowanie)
 
 ### Data Science - spis treści
-**[W trakcie przygotowania]**
 #### [1. Wprowadzenie](https://patrykpalej.netlify.app/docs/data-science/1.wprowadzenie)
 [1.1 Informacje ogólne](https://patrykpalej.netlify.app/docs/data-science/1.wprowadzenie/#1-1-informacje-ogolne)
 [1.2 Jupyter Notebook](https://patrykpalej.netlify.app/docs/data-science/1.wprowadzenie/#1-2-jupyter-notebook)

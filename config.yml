@@ -15,12 +15,12 @@ Python:
       - Operacje arytmetyczne
       - Operacje na stringach
       - Komentarze
-      - Funkcja \`input()\`
+      - Funkcja input()
     Struktury danych:
-      - \`list\`
-      - \`tuple\`
-      - \`dict\`
-      - \`set\`
+      - list
+      - tuple
+      - dict
+      - set
       - Operacje na strukturach danych
       - Slicing
       - Zagnieżdżone struktury
@@ -29,26 +29,26 @@ Python:
     Instrukcje warunkowe:
       - Operatory porównania
       - Spójniki logiczne
-      - Instrukcja \`if\`
-      - Instrukcja \`if\`-\`else\`
-      - Instrukcja \`if\`-\`elif\`-(\`else\`)
+      - Instrukcja if
+      - Instrukcja if-else
+      - Instrukcja if-elif-(else)
     Pętle:
-      - Pętla \`for\`
-      - Pętla \`while\`
-      - Instrukcje \`break\` oraz \`continue\`
+      - Pętla for
+      - Pętla while
+      - Instrukcje break oraz continue
       - Zagnieżdżone pętle
-      - Generatory w pętli \`for\`
-      - \`list comprehension\`
+      - Generatory w pętli for
+      - list comprehension
     Funkcje:
       - Procedura
       - Argumenty funkcji
-      - Słowo kluczowe \`return\`
+      - Słowo kluczowe return
       - Argumenty z wartością domyślną
       - Kolejność argumentów
       - Wbudowane generatory cz. 2
-      - \`lambda\`
+      - lambda
       - argument unpacking
-      - \`args\`, \`kwargs\`
+      - args, kwargs
       - Docstring
     Obsługa błędów i jakość kodu:
       - PEP 8
@@ -65,7 +65,7 @@ Python:
       - Pliki txt
       - Pliki json
       - pickle
-      - Biblioteka \`os\`
+      - Biblioteka os
     Programowanie obiektowe:
       - Klasa oraz obiekt
       - Definicja klasy, konstruktor
@@ -79,7 +79,7 @@ Python:
       - Escape character
       - Znaki specjalne
       - Złożone patterny
-      - Funkcje biblioteki \`re\`
+      - Funkcje biblioteki re
     Pozostałe zagadnienia:
       - Rekurencja
       - Generatory
@@ -114,8 +114,8 @@ Data Science:
       - Łączenie tablic
       - Liczby pseudolosowe
     Pandas - series i dataframe:
-      - \`Series\`
-      - \`DataFrame\`
+      - Series
+      - DataFrame
     Pandas - operacje odczytu:
       - Struktura dataframe'a
       - Wyciąganie kolumn, wierszy, wartości

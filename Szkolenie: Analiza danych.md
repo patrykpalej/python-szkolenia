@@ -1,4 +1,4 @@
-### Analiza danych - spis treści
+### Spis treści
 **[W trakcie przygotowania]**
 To szkolenie wprowadza w świat analizy danych i daje fundament do dalszego rozwoju w kierunku data science i uczenia maszynowego
 #### [1. Wprowadzenie](https://patrykpalej.dev/docs/analiza-danych/1.wprowadzenie)

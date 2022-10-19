@@ -1,6 +1,6 @@
 source venv/bin/activate
-python automation/generate_toc.py
-python automation/generate_content.py
+python automations/generate_toc.py
+python automations/generate_content.py
 
 
 git add -A

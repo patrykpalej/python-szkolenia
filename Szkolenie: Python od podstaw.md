@@ -1,4 +1,4 @@
-### Python od podstaw - spis treści
+### Spis treści
 Szkolenie obejmuje naukę podstaw programowania dla osób zupełnie początkujących jak również wszystkie najważniejsze zagadnienia potrzebne na start dla Python developera
 #### [1. Wprowadzenie](https://patrykpalej.dev/docs/python-od-podstaw/1.wprowadzenie)
 [1.1 Informacje o języku](https://patrykpalej.dev/docs/python-od-podstaw/1.wprowadzenie/#1-1-informacje-o-jezyku)

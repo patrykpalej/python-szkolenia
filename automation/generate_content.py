@@ -9,7 +9,10 @@ with open("config.yml", "r") as f:
 content_folder = "content"
 for training in list(conf.keys()):
     training_name = training.replace("|todo", "")
-    shutil.rmtree(training_name)
+    try:
+        shutil.rmtree(training_name)
+    except FileNotFoundError:
+        pass
     
     for i, lesson in enumerate(conf[training]["Lekcje"], start=1):
         markdown_text = ""

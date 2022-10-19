@@ -1,4 +1,5 @@
 ### [[Szkolenie: Analiza danych|Analiza danych]]
+**[W trakcie przygotowania]**
 To szkolenie wprowadza w świat analizy danych i daje fundament do dalszego rozwoju w kierunku data science i uczenia maszynowego
 [[Szkolenie: Analiza danych|Zobacz szczegóły]]
 

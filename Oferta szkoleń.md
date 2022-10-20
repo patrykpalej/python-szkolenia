@@ -10,6 +10,7 @@ Opis nowego szkolenia
 
 ----
 ### [[Szkolenie: Nowe todo szkolenie|Nowe todo szkolenie]]
+**[W trakcie przygotowania]**
 Opis nowego szkolenia
 [[Szkolenie: Nowe todo szkolenie|Zobacz szczegóły]]
 

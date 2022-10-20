@@ -1,4 +1,5 @@
 ### Spis treści
+**[W trakcie przygotowania]**
 Opis nowego szkolenia
 #### [1. Temat pierwszy](https://patrykpalej.dev/docs/nowe-todo-szkolenie/1.temat-pierwszy)
 [1.1 Informacje ogólne](https://patrykpalej.dev/docs/nowe-todo-szkolenie/1.temat-pierwszy/#1-1-informacje-ogolne)

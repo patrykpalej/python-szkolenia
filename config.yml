@@ -165,4 +165,13 @@ Nowe szkolenie test:
     Temat drugi:
       - Informacje ogólne
       - Informacje szczególne
-  
+Nowe todo szkolenie:
+  Opis:
+    Opis nowego szkolenia
+  Lekcje:
+    Temat pierwszy:
+      - Informacje ogólne
+      - Informacje szczególne
+    Temat drugi:
+      - Informacje ogólne
+      - Informacje szczególne

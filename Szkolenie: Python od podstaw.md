@@ -52,7 +52,8 @@ Szkolenie obejmuje naukę podstaw programowania dla osób zupełnie początkują
 [6.7 lambda](https://patrykpalej.dev/docs/python-od-podstaw/6.funkcje/#6-7-lambda)
 [6.8 argument unpacking](https://patrykpalej.dev/docs/python-od-podstaw/6.funkcje/#6-8-argument-unpacking)
 [6.9 args, kwargs](https://patrykpalej.dev/docs/python-od-podstaw/6.funkcje/#6-9-args-kwargs)
-[6.10 Docstring](https://patrykpalej.dev/docs/python-od-podstaw/6.funkcje/#6-10-docstring)
+[6.10 Docstring i doctest](https://patrykpalej.dev/docs/python-od-podstaw/6.funkcje/#6-10-docstring-i-doctest)
+[6.11 Zakres przestrzeni nazw](https://patrykpalej.dev/docs/python-od-podstaw/6.funkcje/#6-11-zakres-przestrzeni-nazw)
 
 #### [7. Obsługa błędów i jakość kodu](https://patrykpalej.dev/docs/python-od-podstaw/7.obsluga-bledow-i-jakosc-kodu)
 [7.1 PEP 8](https://patrykpalej.dev/docs/python-od-podstaw/7.obsluga-bledow-i-jakosc-kodu/#7-1-pep-8)
@@ -75,8 +76,8 @@ Szkolenie obejmuje naukę podstaw programowania dla osób zupełnie początkują
 
 #### [10. Programowanie obiektowe](https://patrykpalej.dev/docs/python-od-podstaw/10.programowanie-obiektowe)
 [10.1 Klasa oraz obiekt](https://patrykpalej.dev/docs/python-od-podstaw/10.programowanie-obiektowe/#10-1-klasa-oraz-obiekt)
-[10.2 Definicja klasy, konstruktor](https://patrykpalej.dev/docs/python-od-podstaw/10.programowanie-obiektowe/#10-2-definicja-klasy-konstruktor)
-[10.3 Atrybuty i metody](https://patrykpalej.dev/docs/python-od-podstaw/10.programowanie-obiektowe/#10-3-atrybuty-i-metody)
+[10.2 Definicja klasy, konstruktor, atrybuty](https://patrykpalej.dev/docs/python-od-podstaw/10.programowanie-obiektowe/#10-2-definicja-klasy-konstruktor-atrybuty)
+[10.3 Metody](https://patrykpalej.dev/docs/python-od-podstaw/10.programowanie-obiektowe/#10-3-metody)
 [10.4 staticmethod, classmethod](https://patrykpalej.dev/docs/python-od-podstaw/10.programowanie-obiektowe/#10-4-staticmethod-classmethod)
 [10.5 Dziedziczenie](https://patrykpalej.dev/docs/python-od-podstaw/10.programowanie-obiektowe/#10-5-dziedziczenie)
 [10.6 Stringifikacja](https://patrykpalej.dev/docs/python-od-podstaw/10.programowanie-obiektowe/#10-6-stringifikacja)
@@ -90,8 +91,8 @@ Szkolenie obejmuje naukę podstaw programowania dla osób zupełnie początkują
 [11.6 Funkcje biblioteki re](https://patrykpalej.dev/docs/python-od-podstaw/11.wyrazenia-regularne/#11-6-funkcje-biblioteki-re)
 
 #### [12. Pozostałe zagadnienia](https://patrykpalej.dev/docs/python-od-podstaw/12.pozostale-zagadnienia)
-[12.1 Rekurencja](https://patrykpalej.dev/docs/python-od-podstaw/12.pozostale-zagadnienia/#12-1-rekurencja)
-[12.2 Generatory](https://patrykpalej.dev/docs/python-od-podstaw/12.pozostale-zagadnienia/#12-2-generatory)
-[12.3 Doctesty](https://patrykpalej.dev/docs/python-od-podstaw/12.pozostale-zagadnienia/#12-3-doctesty)
+[12.1 Data i czas](https://patrykpalej.dev/docs/python-od-podstaw/12.pozostale-zagadnienia/#12-1-data-i-czas)
+[12.2 Rekurencja](https://patrykpalej.dev/docs/python-od-podstaw/12.pozostale-zagadnienia/#12-2-rekurencja)
+[12.3 Generatory](https://patrykpalej.dev/docs/python-od-podstaw/12.pozostale-zagadnienia/#12-3-generatory)
 [12.4 Logowanie](https://patrykpalej.dev/docs/python-od-podstaw/12.pozostale-zagadnienia/#12-4-logowanie)
 

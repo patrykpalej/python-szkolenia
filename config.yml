@@ -49,7 +49,8 @@ Python od podstaw:
       - lambda
       - argument unpacking
       - args, kwargs
-      - Docstring
+      - Docstring i doctest
+      - Zakres przestrzeni nazw
     Obsługa błędów i jakość kodu:
       - PEP 8
       - Type annotations
@@ -68,8 +69,8 @@ Python od podstaw:
       - Biblioteka os
     Programowanie obiektowe:
       - Klasa oraz obiekt
-      - Definicja klasy, konstruktor
-      - Atrybuty i metody
+      - Definicja klasy, konstruktor, atrybuty
+      - Metody
       - staticmethod, classmethod
       - Dziedziczenie
       - Stringifikacja
@@ -81,9 +82,9 @@ Python od podstaw:
       - Złożone patterny
       - Funkcje biblioteki re
     Pozostałe zagadnienia:
+      - Data i czas
       - Rekurencja
       - Generatory
-      - Doctesty
       - Logowanie
 Analiza danych|todo:
   Opis:

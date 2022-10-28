@@ -14,7 +14,7 @@ Szkolenie obejmuje naukę podstaw programowania dla osób zupełnie początkują
 [2.4 Operacje arytmetyczne](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-4-operacje-arytmetyczne)
 [2.5 Operacje na stringach](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-5-operacje-na-stringach)
 [2.6 Komentarze](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-6-komentarze)
-[2.7 Funkcja input()](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-7-funkcja-input)
+[2.7 Funkcja input](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-7-funkcja-input)
 
 #### [3. Struktury danych](https://patrykpalej.dev/docs/python-od-podstaw/3.struktury-danych)
 [3.1 list](https://patrykpalej.dev/docs/python-od-podstaw/3.struktury-danych/#3-1-list)

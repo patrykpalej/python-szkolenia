@@ -6,7 +6,7 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "O mnie"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "https://cloud.patrykpalej.com/index.php/s/PMcQXKXFMAPQW7b/preview"
+LANDING_DESCRIPTION = "Kontakt związany ze szkoleniami, konsultacjami lub zawartością tej strony:"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "o-mnie"
 # (Optional) Site title on landing page

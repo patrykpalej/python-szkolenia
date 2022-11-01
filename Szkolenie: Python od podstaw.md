@@ -60,7 +60,8 @@ Szkolenie obejmuje naukę podstaw programowania dla osób zupełnie początkują
 [7.2 Type annotations](https://patrykpalej.dev/docs/python-od-podstaw/7.obsluga-bledow-i-jakosc-kodu/#7-2-type-annotations)
 [7.3 Stack Overflow](https://patrykpalej.dev/docs/python-od-podstaw/7.obsluga-bledow-i-jakosc-kodu/#7-3-stack-overflow)
 [7.4 Debugowanie](https://patrykpalej.dev/docs/python-od-podstaw/7.obsluga-bledow-i-jakosc-kodu/#7-4-debugowanie)
-[7.5 Wyjątki](https://patrykpalej.dev/docs/python-od-podstaw/7.obsluga-bledow-i-jakosc-kodu/#7-5-wyjatki)
+[7.5 Linebreak](https://patrykpalej.dev/docs/python-od-podstaw/7.obsluga-bledow-i-jakosc-kodu/#7-5-linebreak)
+[7.6 Wyjątki](https://patrykpalej.dev/docs/python-od-podstaw/7.obsluga-bledow-i-jakosc-kodu/#7-6-wyjatki)
 
 #### [8. Moduły](https://patrykpalej.dev/docs/python-od-podstaw/8.moduly)
 [8.1 Ogólne informacje](https://patrykpalej.dev/docs/python-od-podstaw/8.moduly/#8-1-ogolne-informacje)

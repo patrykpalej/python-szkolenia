@@ -9,11 +9,11 @@ Szkolenie obejmuje naukę podstaw programowania dla osób zupełnie początkują
 
 #### [2. Podstawy](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy)
 [2.1 Definiowanie zmiennych](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-1-definiowanie-zmiennych)
-[2.2 Funkcje wbudowane](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-2-funkcje-wbudowane)
+[2.2 Komentarze](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-2-komentarze)
 [2.3 Typy](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-3-typy)
-[2.4 Operacje arytmetyczne](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-4-operacje-arytmetyczne)
-[2.5 Operacje na stringach](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-5-operacje-na-stringach)
-[2.6 Komentarze](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-6-komentarze)
+[2.4 Funkcje wbudowane](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-4-funkcje-wbudowane)
+[2.5 Operacje arytmetyczne](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-5-operacje-arytmetyczne)
+[2.6 Operacje na stringach](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-6-operacje-na-stringach)
 [2.7 Funkcja input](https://patrykpalej.dev/docs/python-od-podstaw/2.podstawy/#2-7-funkcja-input)
 
 #### [3. Struktury danych](https://patrykpalej.dev/docs/python-od-podstaw/3.struktury-danych)

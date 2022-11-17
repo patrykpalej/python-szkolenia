@@ -41,14 +41,14 @@ Python od podstaw:
       - list comprehension
     Funkcje:
       - Procedura
-      - Argumenty funkcji
+      - Parametry funkcji
       - Słowo kluczowe return
-      - Argumenty z wartością domyślną
-      - Kolejność argumentów
+      - Parametry z wartością domyślną
       - Wbudowane generatory cz. 2
       - lambda
-      - argument unpacking
+      - arguments unpacking
       - args, kwargs
+      - Kolejność parametrów
       - Docstring i doctest
       - Zakres przestrzeni nazw
     Obsługa błędów i jakość kodu:
@@ -65,6 +65,7 @@ Python od podstaw:
       - Tworzenie własnego modułu
     Praca z plikami:
       - Pliki txt
+      - Kodowanie znaków
       - Pliki json
       - pickle
       - Biblioteka os
@@ -75,11 +76,12 @@ Python od podstaw:
       - staticmethod, classmethod
       - Dziedziczenie
       - Stringifikacja
+      - class attribute
     Wyrażenia regularne:
-      - r-string
+      - Wprowadzenie
       - Proste patterny
-      - Escape character
       - Znaki specjalne
+      - Escape character
       - Złożone patterny
       - Funkcje biblioteki re
     Pozostałe zagadnienia:

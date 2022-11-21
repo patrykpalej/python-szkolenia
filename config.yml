@@ -37,7 +37,7 @@ Python od podstaw:
       - Pętla while
       - Instrukcje break oraz continue
       - Zagnieżdżone pętle
-      - Generatory w pętli for
+      - zip i enumerate w pętli for
       - list comprehension
     Funkcje:
       - Procedura

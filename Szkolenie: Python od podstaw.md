@@ -39,7 +39,7 @@ Szkolenie obejmuje naukę podstaw programowania dla osób zupełnie początkują
 [5.2 Pętla while](https://patrykpalej.dev/docs/python-od-podstaw/5.petle/#5-2-petla-while)
 [5.3 Instrukcje break oraz continue](https://patrykpalej.dev/docs/python-od-podstaw/5.petle/#5-3-instrukcje-break-oraz-continue)
 [5.4 Zagnieżdżone pętle](https://patrykpalej.dev/docs/python-od-podstaw/5.petle/#5-4-zagniezdzone-petle)
-[5.5 Generatory w pętli for](https://patrykpalej.dev/docs/python-od-podstaw/5.petle/#5-5-generatory-w-petli-for)
+[5.5 zip i enumerate w pętli for](https://patrykpalej.dev/docs/python-od-podstaw/5.petle/#5-5-zip-i-enumerate-w-petli-for)
 [5.6 list comprehension](https://patrykpalej.dev/docs/python-od-podstaw/5.petle/#5-6-list-comprehension)
 
 #### [6. Funkcje](https://patrykpalej.dev/docs/python-od-podstaw/6.funkcje)

@@ -51,7 +51,7 @@ Python od podstaw:
       - Kolejność parametrów
       - Docstring i doctest
       - Zakres przestrzeni nazw
-    Obsługa błędów i jakość kodu:
+    Jakość kodu i obsługa błędów:
       - PEP 8
       - Type annotations
       - Stack Overflow

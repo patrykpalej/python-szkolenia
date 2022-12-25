@@ -82,7 +82,7 @@ Szkolenie obejmuje naukę podstaw programowania dla osób zupełnie początkują
 [10.3 Metody](https://patrykpalej.dev/docs/python-od-podstaw/10.programowanie-obiektowe/#10-3-metody)
 [10.4 staticmethod, classmethod](https://patrykpalej.dev/docs/python-od-podstaw/10.programowanie-obiektowe/#10-4-staticmethod-classmethod)
 [10.5 Dziedziczenie](https://patrykpalej.dev/docs/python-od-podstaw/10.programowanie-obiektowe/#10-5-dziedziczenie)
-[10.6 Stringifikacja](https://patrykpalej.dev/docs/python-od-podstaw/10.programowanie-obiektowe/#10-6-stringifikacja)
+[10.6 Stringifikacja i reprezentacja](https://patrykpalej.dev/docs/python-od-podstaw/10.programowanie-obiektowe/#10-6-stringifikacja-i-reprezentacja)
 [10.7 class attribute](https://patrykpalej.dev/docs/python-od-podstaw/10.programowanie-obiektowe/#10-7-class-attribute)
 
 #### [11. Wyrażenia regularne](https://patrykpalej.dev/docs/python-od-podstaw/11.wyrazenia-regularne)

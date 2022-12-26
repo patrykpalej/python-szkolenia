@@ -63,12 +63,6 @@ Python od podstaw:
       - Przykładowe moduły biblioteki standardowej
       - Import kodu z innych plików
       - Tworzenie własnego modułu
-    Praca z plikami:
-      - Pliki txt
-      - Kodowanie znaków
-      - Pliki json
-      - pickle
-      - Biblioteka os
     Programowanie obiektowe:
       - Klasa oraz obiekt
       - Definicja klasy, konstruktor, atrybuty
@@ -77,6 +71,12 @@ Python od podstaw:
       - Dziedziczenie
       - Stringifikacja i reprezentacja
       - class attribute
+    Praca z plikami:
+      - Pliki txt
+      - Kodowanie znaków
+      - Pliki json
+      - pickle
+      - Biblioteka os
     Wyrażenia regularne:
       - Wprowadzenie
       - Proste patterny

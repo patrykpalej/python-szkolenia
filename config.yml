@@ -1,6 +1,6 @@
-Python od podstaw:
+Python podstawowy:
   Opis:
-    Szkolenie obejmuje naukę podstaw programowania dla osób zupełnie początkujących jak również wszystkie najważniejsze zagadnienia potrzebne na start dla Python developera
+    Szkolenie obejmuje naukę podstaw programowania dla osób zupełnie początkujących jak również wszystkie najważniejsze zagadnienia potrzebne na start dla Python developera.
   Lekcje:
     Wprowadzenie:
       - Informacje o języku
@@ -62,7 +62,6 @@ Python od podstaw:
       - Ogólne informacje
       - Przykładowe moduły biblioteki standardowej
       - Import kodu z innych plików
-      - Tworzenie własnego modułu
     Programowanie obiektowe:
       - Klasa oraz obiekt
       - Definicja klasy, konstruktor, atrybuty
@@ -77,18 +76,50 @@ Python od podstaw:
       - Pliki json
       - pickle
       - Biblioteka os
+Python średniozaawansowany:
+  Opis:
+    To szkolenie skupia się na pogłębieniu wiedzy i rozwijaniu umiejętności programowania w Pythonie. Obejmuje m.in. zagadnienia związane z wyrażeniami regularnymi, wykorzystaniem protokołu HTTP czy łączeniem się z bazą danych.
+  Lekcje:
+    Data i czas:
+     - Typy date, time i datetime
+     - Części składowe daty i czasu
+     - Zamiana daty na tekst i tekstu na datę
+     - Strefy czasowe
+     - Obsługa kalendarza
     Wyrażenia regularne:
-      - Wprowadzenie
-      - Proste patterny
-      - Znaki specjalne
-      - Escape character
-      - Złożone patterny
-      - Funkcje biblioteki re
+     - Wprowadzenie
+     - Proste patterny
+     - Znaki specjalne
+     - Escape character
+     - Złożone patterny
+     - Funkcje biblioteki re
+    Bazy danych:
+     - Wstęp do baz danych i podstawy SQL
+     - Nawiązanie połączenia
+     - Generowanie i egzekucja zapytań SQL w Pythonie
+    Protokół HTTP:
+     - Podstawowe pojęcia
+     - Web scraping
+     - REST API
+    Aplikacje CLI:
+     - Parsowanie argumentów skryptu
+     - Tworzenie aplikacji CLI
+    Logowanie:
+     - Idea logowania
+     - Konfiguracja loggera
+     - Strumienie wyjścia
+    Testy jednostkowe:
+     - Asercje
+     - Biblioteka pytest
+     - Fixtures
+     - Test Driven Development
     Pozostałe zagadnienia:
-      - Data i czas
-      - Rekurencja
-      - Generatory
-      - Logowanie
+     - Klasa Enum
+     - dataclass
+     - Pliki konfiguracyjne
+     - Statyczna analiza kodu
+     - Generatory oraz iteratory
+     - Dekoratory
 Analiza danych|todo:
   Opis:
     To szkolenie wprowadza w świat analizy danych i daje fundament do dalszego rozwoju w kierunku data science i uczenia maszynowego

@@ -9,8 +9,8 @@ Szkolenie obejmuje naukę podstaw programowania dla osób zupełnie początkują
 [[Szkolenie: Python podstawowy|Zobacz szczegóły]]
 
 ----
-### [[Szkolenie: Python średniozaawansowany|Python średniozaawansowany]]
+### [[Szkolenie: Python średnio zaawansowany|Python średnio zaawansowany]]
 To szkolenie skupia się na pogłębieniu wiedzy i rozwijaniu umiejętności programowania w Pythonie. Obejmuje m.in. zagadnienia związane z wyrażeniami regularnymi, wykorzystaniem protokołu HTTP czy łączeniem się z bazą danych.
-[[Szkolenie: Python średniozaawansowany|Zobacz szczegóły]]
+[[Szkolenie: Python średnio zaawansowany|Zobacz szczegóły]]
 
 ----

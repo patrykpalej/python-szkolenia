@@ -76,13 +76,12 @@ Python podstawowy:
       - Pliki json
       - pickle
       - Biblioteka os
-Python średniozaawansowany:
+Python średnio zaawansowany:
   Opis:
     To szkolenie skupia się na pogłębieniu wiedzy i rozwijaniu umiejętności programowania w Pythonie. Obejmuje m.in. zagadnienia związane z wyrażeniami regularnymi, wykorzystaniem protokołu HTTP czy łączeniem się z bazą danych.
   Lekcje:
     Data i czas:
-     - Typy date, time i datetime
-     - Części składowe daty i czasu
+     - Typy danych
      - Zamiana daty na tekst i tekstu na datę
      - Strefy czasowe
      - Obsługa kalendarza

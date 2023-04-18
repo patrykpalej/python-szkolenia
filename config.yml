@@ -86,13 +86,6 @@ Python średniozaawansowany:
      - Zamiana daty na tekst i tekstu na datę
      - Strefy czasowe
      - Obsługa kalendarza
-    Wyrażenia regularne:
-     - Wprowadzenie
-     - Proste patterny
-     - Znaki specjalne
-     - Escape character
-     - Złożone patterny
-     - Funkcje biblioteki re
     Bazy danych:
      - Wstęp do baz danych i podstawy SQL
      - Nawiązanie połączenia
@@ -113,9 +106,17 @@ Python średniozaawansowany:
      - Biblioteka pytest
      - Fixtures
      - Test Driven Development
+    Wyrażenia regularne:
+     - Wprowadzenie
+     - Proste patterny
+     - Znaki specjalne
+     - Escape character
+     - Złożone patterny
+     - Funkcje biblioteki re
     Pozostałe zagadnienia:
      - Klasa Enum
      - dataclass
+     - Locale
      - Pliki konfiguracyjne
      - Statyczna analiza kodu
      - Generatory oraz iteratory

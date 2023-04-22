@@ -1,4 +1,5 @@
 ### Spis treści
+**[W trakcie przygotowania]**
 To szkolenie skupia się na pogłębieniu wiedzy i rozwijaniu umiejętności programowania w Pythonie. Obejmuje m.in. zagadnienia związane z wyrażeniami regularnymi, wykorzystaniem protokołu HTTP czy łączeniem się z bazą danych.
 #### [1. Data i czas](https://patrykpalej.dev/docs/python-srednio-zaawansowany/1.data-i-czas)
 [1.1 Typy danych](https://patrykpalej.dev/docs/python-srednio-zaawansowany/1.data-i-czas/#1-1-typy-danych)

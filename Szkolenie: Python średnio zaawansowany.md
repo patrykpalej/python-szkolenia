@@ -4,7 +4,7 @@ To szkolenie skupia się na pogłębieniu wiedzy i rozwijaniu umiejętności pro
 [1.1 Typy danych](https://patrykpalej.dev/docs/python-srednio-zaawansowany/1.data-i-czas/#1-1-typy-danych)
 [1.2 Zamiana daty na tekst i tekstu na datę](https://patrykpalej.dev/docs/python-srednio-zaawansowany/1.data-i-czas/#1-2-zamiana-daty-na-tekst-i-tekstu-na-date)
 [1.3 Strefy czasowe](https://patrykpalej.dev/docs/python-srednio-zaawansowany/1.data-i-czas/#1-3-strefy-czasowe)
-[1.4 Obsługa kalendarza](https://patrykpalej.dev/docs/python-srednio-zaawansowany/1.data-i-czas/#1-4-obsluga-kalendarza)
+[1.4 Dni tygodnia](https://patrykpalej.dev/docs/python-srednio-zaawansowany/1.data-i-czas/#1-4-dni-tygodnia)
 
 #### [2. Bazy danych](https://patrykpalej.dev/docs/python-srednio-zaawansowany/2.bazy-danych)
 [2.1 Wstęp do baz danych i podstawy SQL](https://patrykpalej.dev/docs/python-srednio-zaawansowany/2.bazy-danych/#2-1-wstep-do-baz-danych-i-podstawy-sql)

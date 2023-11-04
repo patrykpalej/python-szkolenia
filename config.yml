@@ -87,24 +87,30 @@ Python średnio zaawansowany|todo:
      - Dni tygodnia
     Bazy danych:
      - Wstęp do baz danych i podstawy SQL
-     - Nawiązanie połączenia
-     - Generowanie i egzekucja zapytań SQL w Pythonie
+     - PostgreSQL + Python
+     - SQLAlchemy
+     - MongoDB
     Protokół HTTP:
-     - Podstawowe pojęcia
+     - HTML
+     - Podstawy działania protokołu HTTP
      - Web scraping
-     - REST API
+     - JSON API
+    Aplikacje webowe:
+     - Flask – podstawy
+     - Routing i parametry
+     - Metody HTTP
     Aplikacje CLI:
-     - Parsowanie argumentów skryptu
-     - Tworzenie aplikacji CLI
+     - sys.argv
+     - argparse
+     - fire
     Logowanie:
      - Idea logowania
      - Konfiguracja loggera
-     - Strumienie wyjścia
-    Testy jednostkowe:
-     - Asercje
-     - Biblioteka pytest
-     - Fixtures
-     - Test Driven Development
+     - Pozostałe zagadnienia
+    Testy:
+     - Doctesty
+     - Testy jednostkowe (biblioteka unittest)
+     - Mocki
     Wyrażenia regularne:
      - Wprowadzenie
      - Proste patterny
@@ -113,12 +119,10 @@ Python średnio zaawansowany|todo:
      - Złożone patterny
      - Funkcje biblioteki re
     Pozostałe zagadnienia:
-     - Klasa Enum
-     - dataclass
-     - Locale
-     - Pliki konfiguracyjne
-     - Statyczna analiza kodu
+     - Rekurencja
      - Generatory oraz iteratory
+     - Wysyłanie maili
+     - Enum
      - Dekoratory
 Analiza danych|todo:
   Opis:

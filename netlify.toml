@@ -19,7 +19,7 @@ SITE_TITLE = "Patryk Palej"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = "Python  – materiały szkoleniowe"
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://patrykpalej.dev"
+SITE_URL = "https://python-szkolenia.netlify.app"
 # (Optional) Site Timezone
 # TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"
